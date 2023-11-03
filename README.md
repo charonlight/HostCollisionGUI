@@ -12,7 +12,7 @@
 
 使用nginx做反向代理
 
-```json
+```
 	server {
 		listen  80  default_server;
 		server_name _;
